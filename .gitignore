@@ -1,0 +1,17 @@
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Pre-trained embeddings (too large for GitHub)
+*.vec
+*.vec.gz
+*.bin
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
